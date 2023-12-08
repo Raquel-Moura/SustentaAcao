@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplicativoConecta</string>
+    <string name="hint_usuario">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="txt_button_entrar">Entrar</string>
+    <string name="txt_esqueceusenha">Esqueceu sua senha? Clique aqui</string>
+    <string name="txt_administrador">Administrador da conta? Entre aqui</string>
+
+</resources>
