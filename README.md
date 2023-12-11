@@ -17,6 +17,8 @@ https://www.figma.com/proto/2rWxOhnD0Bb5d6vNqUNsKg/Fiap?page-id=56%3A2&type=desi
 <br>
 <br>
 ![Captura de tela 2023-10-16 220826](https://github.com/gabriela-cg/login-form/assets/111471780/dadd4fdf-912c-4941-a054-852840b5b542)
+![image](https://github.com/Raquel-Moura/sustentaa-o/assets/111471780/26111457-eab4-4dd1-b22c-f70753a42778)
+
 
 
 
@@ -28,6 +30,7 @@ https://www.figma.com/proto/2rWxOhnD0Bb5d6vNqUNsKg/Fiap?page-id=56%3A2&type=desi
 - Figma
 - React
 - NodeJS
+- Kotlin
 
 
 ## 👩‍💻 **Devs e UX em Treinamento**
